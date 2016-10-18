@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
+
 <html lang="en">
     <head>
         <title>Naslovnica</title>
@@ -22,10 +18,10 @@ and open the template in the editor.
             <h1 id="naslov"> Naslovnica </h1>
         </div>
 
-        <div class="navigacija">
+        <div class="container3">
             <nav>
                 <ul id="navigacija2">
-                    <li><a href="index.html">Naslovnica</a></li>
+                    <li><a href="index.php">Naslovnica</a></li>
                 </ul>
             </nav>
         </div>
@@ -33,7 +29,7 @@ and open the template in the editor.
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
                     <div class="thumbnail">
-                        <a href="video_sadrzaji.html">
+                        <a href="video_sadrzaji.php?id=1">
                             <img src="mobitel.jpg">
                             <div class="caption">
                                 Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
@@ -44,7 +40,7 @@ and open the template in the editor.
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
                     <div class="thumbnail">
-                        <a href="video_sadrzaji.html">
+                        <a href="video_sadrzaji.php?id=1">
                             <img src="mobitel.jpg">
                             <div class="caption">
                                 Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
@@ -55,7 +51,7 @@ and open the template in the editor.
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
                     <div class="thumbnail">
-                        <a href="video_sadrzaji.html">
+                        <a href="video_sadrzaji.php?id=1">
                             <img src="mobitel.jpg">
                             <div class="caption">
                                 Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
@@ -66,7 +62,7 @@ and open the template in the editor.
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
                     <div class="thumbnail">
-                        <a href="video_sadrzaji.html">
+                        <a href="video_sadrzaji.php?id=1">
                             <img src="mobitel.jpg">
                             <div class="caption">
                                 Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
@@ -77,7 +73,7 @@ and open the template in the editor.
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
                     <div class="thumbnail">
-                        <a href="video_sadrzaji.html">
+                        <a href="video_sadrzaji.php?id=1">
                             <img src="mobitel.jpg">
                             <div class="caption">
                                 Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
@@ -88,7 +84,7 @@ and open the template in the editor.
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
                     <div class="thumbnail">
-                        <a href="video_sadrzaji.html">
+                        <a href="video_sadrzaji.php?id=1">
                             <img src="mobitel.jpg">
                             <div class="caption">
                                 Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
@@ -99,7 +95,7 @@ and open the template in the editor.
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
                     <div class="thumbnail">
-                        <a href="video_sadrzaji.html">
+                        <a href="video_sadrzaji.php?id=1">
                             <img src="mobitel.jpg">
                             <div class="caption">
                                 Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
@@ -110,7 +106,7 @@ and open the template in the editor.
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
                     <div class="thumbnail">
-                        <a href="video_sadrzaji.html">
+                        <a href="video_sadrzaji.php?id=1">
                             <img src="mobitel.jpg">
                             <div class="caption">
                                 Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
@@ -121,7 +117,40 @@ and open the template in the editor.
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
                     <div class="thumbnail">
-                        <a href="video_sadrzaji.html">
+                        <a href="video_sadrzaji.php?id=1">
+                            <img src="mobitel.jpg">
+                            <div class="caption">
+                                Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
+                                mnogi su kritičari smatrali da se radi o nepromišljenom potezu i da .....
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
+                    <div class="thumbnail">
+                        <a href="video_sadrzaji.php?id=1">
+                            <img src="mobitel.jpg">
+                            <div class="caption">
+                                Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
+                                mnogi su kritičari smatrali da se radi o nepromišljenom potezu i da .....
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
+                    <div class="thumbnail">
+                        <a href="video_sadrzaji.php?id=1">
+                            <img src="mobitel.jpg">
+                            <div class="caption">
+                                Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
+                                mnogi su kritičari smatrali da se radi o nepromišljenom potezu i da .....
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3 col-sx-3">
+                    <div class="thumbnail">
+                        <a href="video_sadrzaji.php?id=1">
                             <img src="mobitel.jpg">
                             <div class="caption">
                                 Kada je prošle godine Samsung predstavio Galaxy S3 mini, 
@@ -131,7 +160,7 @@ and open the template in the editor.
                     </div>
                 </div>
             </div>
-        </div>
+        </div><br><br><br>
         <div class="container2">
             <p>Izradio: Hrvoje Ćosić</p>
             <p>Kontakt: hcosic2@foi.hr</p>
