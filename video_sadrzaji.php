@@ -32,9 +32,8 @@ $red = $odgovor->fetch_assoc();
 
         <div class="container3">
             <nav>
-                <ul id="navigacija2">
-                    <li><a href="index.php">Naslovnica</a></li>
-                </ul>
+                    <a href="index.php">|Naslovnica|</a>
+                    <a href="dokumentacija.html">Dokumentacija|</a>
             </nav>
         </div>
 
@@ -47,14 +46,14 @@ $red = $odgovor->fetch_assoc();
                     </div>
                     <br>
                     <p>Samsung galaxy s4 mini. Izbor materijala je tradicionalna Samsungova sjajeća plastika koju mnogi kritiziraju, dok većini očito ne predstavlja problem. </p>
-                    <button id="myBtn" type="submit" class="btn btn-success btn-lg">Više</button><br><br>
+                    <button id="gumb" type="submit" class="btn btn-success btn-lg">Više</button><br><br>
 
 
-                    <div id="myModal" class="modal">
+                    <div id="popup" class="popup">
 
-                        <div class="modal-content">
+                        <div class="popup-content">
                             <span class="close">&times</span>
-                            <div class="modal-body">
+                            <div class="popup-body">
                                 <p>Veličina videa: 10MB</p>
                                 <p>Dužina videa: 1:32min</p>
                                 <p>Video postavio: dino1995</p>
@@ -67,23 +66,23 @@ $red = $odgovor->fetch_assoc();
         </div>
         <script>
 
-            var modal = document.getElementById('myModal');
+            var popup = document.getElementById('popup');
 
-            var btn = document.getElementById("myBtn");
+            var btn = document.getElementById("gumb");
 
             var span = document.getElementsByClassName("close")[0];
 
             btn.onclick = function () {
-                modal.style.display = "block";
+                popup.style.display = "block";
             }
 
             span.onclick = function () {
-                modal.style.display = "none";
+                popup.style.display = "none";
             }
 
             window.onclick = function (event) {
-                if (event.target == modal) {
-                    modal.style.display = "none";
+                if (event.target == popup) {
+                    popup.style.display = "none";
                 }
             }
         </script>

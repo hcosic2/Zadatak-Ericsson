@@ -20,9 +20,8 @@
 
         <div class="container3">
             <nav>
-                <ul id="navigacija2">
-                    <li><a href="index.php">Naslovnica</a></li>
-                </ul>
+                <a href="index.php">|Naslovnica|</a>
+                <a href="dokumentacija.html">Dokumentacija|</a>
             </nav>
         </div>
         <div class="container">
